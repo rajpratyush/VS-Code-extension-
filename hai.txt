@@ -1,0 +1,8 @@
+def hello():
+ printf("Hai there")
+
+
+def haiii():
+ printf("ffgfgfgf there")
+
+ 
